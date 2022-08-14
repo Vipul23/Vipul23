@@ -17,10 +17,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=fff&style=for-the-badge)
-
+<!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Vipul23&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipul23&hide=TeX&layout=compact)
-
+-->
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Vipul23.Vipul23)
 
 <!--
